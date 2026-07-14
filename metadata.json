@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis Setup & Companion",
+  "description": "An interactive setup guide, customized prompt generator, and live-voice simulator of the Jarvis AI assistant for Realme and Redmi Turbo 3 China ROM devices.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
